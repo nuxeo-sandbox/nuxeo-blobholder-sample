@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-blobholder-sample
+Bundle-ManifestVersion: 1
+Bundle-SymbolicName: nuxeo-blobholder-sample
+Nuxeo-Component: OSGI-INF/extensions/blobholder-contrib.xml
+
